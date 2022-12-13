@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\1.EjemplosProgramacion\CSharp\BackIonic\BackIonic\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-12-13T07:04:01.1002354Z;True|2022-12-13T00:58:28.8773954-06:00;True|2022-12-12T23:12:54.3767670-06:00;True|2022-12-12T23:06:54.4545448-06:00;True|2022-12-12T22:30:53.3751239-06:00;False|2022-12-12T22:30:29.3394976-06:00;False|2022-12-12T22:29:39.2528220-06:00;True|2022-12-12T22:06:03.2601692-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
